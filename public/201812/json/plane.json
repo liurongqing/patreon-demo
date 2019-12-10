@@ -1,0 +1,293 @@
+{
+	"textures": [
+		{
+			"image": "plane.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 893,
+				"h": 1146
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Shoot2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 443,
+						"h": 302
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 443,
+						"h": 302
+					},
+					"frame": {
+						"x": 2,
+						"y": 2,
+						"w": 443,
+						"h": 302
+					}
+				},
+				{
+					"filename": "Shoot3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 443,
+						"h": 302
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 443,
+						"h": 300
+					},
+					"frame": {
+						"x": 2,
+						"y": 307,
+						"w": 443,
+						"h": 300
+					}
+				},
+				{
+					"filename": "Shoot1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 443,
+						"h": 302
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 443,
+						"h": 284
+					},
+					"frame": {
+						"x": 2,
+						"y": 610,
+						"w": 443,
+						"h": 284
+					}
+				},
+				{
+					"filename": "Bullet1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 110,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 36,
+						"w": 108,
+						"h": 42
+					},
+					"frame": {
+						"x": 2,
+						"y": 897,
+						"w": 108,
+						"h": 42
+					}
+				},
+				{
+					"filename": "Bullet3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 110,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 22,
+						"w": 93,
+						"h": 72
+					},
+					"frame": {
+						"x": 113,
+						"y": 897,
+						"w": 93,
+						"h": 72
+					}
+				},
+				{
+					"filename": "Bullet2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 110,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 5,
+						"w": 54,
+						"h": 106
+					},
+					"frame": {
+						"x": 2,
+						"y": 942,
+						"w": 54,
+						"h": 106
+					}
+				},
+				{
+					"filename": "Bullet4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 110,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 20,
+						"w": 92,
+						"h": 75
+					},
+					"frame": {
+						"x": 209,
+						"y": 897,
+						"w": 92,
+						"h": 75
+					}
+				},
+				{
+					"filename": "Bullet5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 110,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 5,
+						"w": 55,
+						"h": 104
+					},
+					"frame": {
+						"x": 59,
+						"y": 972,
+						"w": 55,
+						"h": 104
+					}
+				},
+				{
+					"filename": "Shoot4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 443,
+						"h": 302
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 443,
+						"h": 284
+					},
+					"frame": {
+						"x": 448,
+						"y": 2,
+						"w": 443,
+						"h": 284
+					}
+				},
+				{
+					"filename": "Fly1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 443,
+						"h": 302
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 443,
+						"h": 283
+					},
+					"frame": {
+						"x": 448,
+						"y": 289,
+						"w": 443,
+						"h": 283
+					}
+				},
+				{
+					"filename": "Shoot5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 443,
+						"h": 302
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 443,
+						"h": 283
+					},
+					"frame": {
+						"x": 448,
+						"y": 289,
+						"w": 443,
+						"h": 283
+					}
+				},
+				{
+					"filename": "Fly2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 443,
+						"h": 302
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 443,
+						"h": 283
+					},
+					"frame": {
+						"x": 448,
+						"y": 575,
+						"w": 443,
+						"h": 283
+					}
+				},
+				{
+					"filename": "Dead1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 465,
+						"h": 319
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 442,
+						"h": 283
+					},
+					"frame": {
+						"x": 448,
+						"y": 861,
+						"w": 442,
+						"h": 283
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:041d7321e00e24845b062be879264490:0d6549c7ef309f2f0f03b61f20ed185d:e7d815c4455bdad6de6ff1a8b57e9b20$"
+	}
+}

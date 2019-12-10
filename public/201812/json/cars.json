@@ -1,0 +1,272 @@
+{
+	"textures": [
+		{
+			"image": "cars.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 981,
+				"h": 1144
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "truck/Body",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 641,
+						"h": 399
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 641,
+						"h": 399
+					},
+					"frame": {
+						"x": 2,
+						"y": 2,
+						"w": 641,
+						"h": 399
+					}
+				},
+				{
+					"filename": "orc/Head",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 313,
+						"h": 246
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 313,
+						"h": 246
+					},
+					"frame": {
+						"x": 646,
+						"y": 2,
+						"w": 313,
+						"h": 246
+					}
+				},
+				{
+					"filename": "truck/Head",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 300,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 300,
+						"h": 261
+					},
+					"frame": {
+						"x": 646,
+						"y": 251,
+						"w": 300,
+						"h": 261
+					}
+				},
+				{
+					"filename": "orc/Body",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 636,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 636,
+						"h": 220
+					},
+					"frame": {
+						"x": 2,
+						"y": 404,
+						"w": 636,
+						"h": 220
+					}
+				},
+				{
+					"filename": "truck/Wheel2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 241,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 241,
+						"h": 240
+					},
+					"frame": {
+						"x": 641,
+						"y": 515,
+						"w": 241,
+						"h": 240
+					}
+				},
+				{
+					"filename": "girl/Body",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 599,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 599,
+						"h": 209
+					},
+					"frame": {
+						"x": 2,
+						"y": 627,
+						"w": 599,
+						"h": 209
+					}
+				},
+				{
+					"filename": "girl/Head",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 422,
+						"h": 303
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 422,
+						"h": 303
+					},
+					"frame": {
+						"x": 2,
+						"y": 839,
+						"w": 422,
+						"h": 303
+					}
+				},
+				{
+					"filename": "truck/Wheel1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 240,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 240,
+						"h": 240
+					},
+					"frame": {
+						"x": 427,
+						"y": 839,
+						"w": 240,
+						"h": 240
+					}
+				},
+				{
+					"filename": "orc/Wheel1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 187,
+						"h": 187
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 187,
+						"h": 187
+					},
+					"frame": {
+						"x": 670,
+						"y": 758,
+						"w": 187,
+						"h": 187
+					}
+				},
+				{
+					"filename": "girl/Wheel1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 119,
+						"h": 119
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 119,
+						"h": 119
+					},
+					"frame": {
+						"x": 860,
+						"y": 758,
+						"w": 119,
+						"h": 119
+					}
+				},
+				{
+					"filename": "girl/Wheel2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 118,
+						"h": 119
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 118,
+						"h": 119
+					},
+					"frame": {
+						"x": 860,
+						"y": 880,
+						"w": 118,
+						"h": 119
+					}
+				},
+				{
+					"filename": "orc/Wheel2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 187,
+						"h": 187
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 187,
+						"h": 187
+					},
+					"frame": {
+						"x": 670,
+						"y": 948,
+						"w": 187,
+						"h": 187
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:cc26b84e5a32ccfd9d6a7dc07c43ce48:68da03ba41578ed7f9c593536d9a6079:76643c3195b82b5daf4c2278b6d42f60$"
+	}
+}

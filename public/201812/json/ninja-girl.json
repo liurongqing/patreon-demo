@@ -1,0 +1,2351 @@
+{
+	"textures": [
+		{
+			"image": "ninja-girl.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 3970,
+				"h": 1224
+			},
+			"scale": 0.5,
+			"frames": [
+				{
+					"filename": "JumpAttack006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 292
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 18,
+						"w": 244,
+						"h": 274
+					},
+					"frame": {
+						"x": 2,
+						"y": 2,
+						"w": 244,
+						"h": 274
+					}
+				},
+				{
+					"filename": "JumpAttack007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 292
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 18,
+						"w": 244,
+						"h": 274
+					},
+					"frame": {
+						"x": 2,
+						"y": 279,
+						"w": 244,
+						"h": 274
+					}
+				},
+				{
+					"filename": "JumpAttack005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 292
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 18,
+						"w": 243,
+						"h": 274
+					},
+					"frame": {
+						"x": 2,
+						"y": 556,
+						"w": 243,
+						"h": 274
+					}
+				},
+				{
+					"filename": "JumpAttack008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 292
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 15,
+						"w": 160,
+						"h": 261
+					},
+					"frame": {
+						"x": 2,
+						"y": 833,
+						"w": 160,
+						"h": 261
+					}
+				},
+				{
+					"filename": "Kunai",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 80,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 80,
+						"h": 16
+					},
+					"frame": {
+						"x": 2,
+						"y": 1097,
+						"w": 80,
+						"h": 16
+					}
+				},
+				{
+					"filename": "JumpAttack003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 292
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 13,
+						"w": 234,
+						"h": 260
+					},
+					"frame": {
+						"x": 165,
+						"y": 833,
+						"w": 234,
+						"h": 260
+					}
+				},
+				{
+					"filename": "JumpAttack004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 292
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 15,
+						"w": 234,
+						"h": 258
+					},
+					"frame": {
+						"x": 248,
+						"y": 556,
+						"w": 234,
+						"h": 258
+					}
+				},
+				{
+					"filename": "JumpAttack001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 292
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 12,
+						"w": 147,
+						"h": 255
+					},
+					"frame": {
+						"x": 402,
+						"y": 817,
+						"w": 147,
+						"h": 255
+					}
+				},
+				{
+					"filename": "Run001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 188,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 6,
+						"w": 168,
+						"h": 254
+					},
+					"frame": {
+						"x": 249,
+						"y": 2,
+						"w": 168,
+						"h": 254
+					}
+				},
+				{
+					"filename": "Throw007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 4,
+						"w": 167,
+						"h": 253
+					},
+					"frame": {
+						"x": 249,
+						"y": 259,
+						"w": 167,
+						"h": 253
+					}
+				},
+				{
+					"filename": "Run002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 188,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 4,
+						"w": 166,
+						"h": 253
+					},
+					"frame": {
+						"x": 419,
+						"y": 259,
+						"w": 166,
+						"h": 253
+					}
+				},
+				{
+					"filename": "Run006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 188,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 6,
+						"w": 166,
+						"h": 253
+					},
+					"frame": {
+						"x": 420,
+						"y": 2,
+						"w": 166,
+						"h": 253
+					}
+				},
+				{
+					"filename": "Throw002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 4,
+						"w": 158,
+						"h": 253
+					},
+					"frame": {
+						"x": 485,
+						"y": 515,
+						"w": 158,
+						"h": 253
+					}
+				},
+				{
+					"filename": "Jump001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 19,
+						"w": 149,
+						"h": 253
+					},
+					"frame": {
+						"x": 588,
+						"y": 258,
+						"w": 149,
+						"h": 253
+					}
+				},
+				{
+					"filename": "JumpAttack002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 292
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 12,
+						"w": 147,
+						"h": 253
+					},
+					"frame": {
+						"x": 589,
+						"y": 2,
+						"w": 147,
+						"h": 253
+					}
+				},
+				{
+					"filename": "Throw003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 184,
+						"h": 252
+					},
+					"frame": {
+						"x": 739,
+						"y": 2,
+						"w": 184,
+						"h": 252
+					}
+				},
+				{
+					"filename": "Throw008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 5,
+						"w": 161,
+						"h": 252
+					},
+					"frame": {
+						"x": 552,
+						"y": 771,
+						"w": 161,
+						"h": 252
+					}
+				},
+				{
+					"filename": "Dead003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 289,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 82,
+						"w": 220,
+						"h": 195
+					},
+					"frame": {
+						"x": 552,
+						"y": 1026,
+						"w": 220,
+						"h": 195
+					}
+				},
+				{
+					"filename": "Throw004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 147,
+						"h": 252
+					},
+					"frame": {
+						"x": 646,
+						"y": 514,
+						"w": 147,
+						"h": 252
+					}
+				},
+				{
+					"filename": "Throw005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 147,
+						"h": 252
+					},
+					"frame": {
+						"x": 740,
+						"y": 257,
+						"w": 147,
+						"h": 252
+					}
+				},
+				{
+					"filename": "Throw006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 5,
+						"w": 147,
+						"h": 251
+					},
+					"frame": {
+						"x": 716,
+						"y": 769,
+						"w": 147,
+						"h": 251
+					}
+				},
+				{
+					"filename": "Throw001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 6,
+						"w": 146,
+						"h": 251
+					},
+					"frame": {
+						"x": 796,
+						"y": 512,
+						"w": 146,
+						"h": 251
+					}
+				},
+				{
+					"filename": "Dead000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 289,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 17,
+						"w": 149,
+						"h": 250
+					},
+					"frame": {
+						"x": 890,
+						"y": 257,
+						"w": 149,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Throw009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 7,
+						"w": 146,
+						"h": 250
+					},
+					"frame": {
+						"x": 926,
+						"y": 2,
+						"w": 146,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Dead005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 289,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 119,
+						"w": 248,
+						"h": 164
+					},
+					"frame": {
+						"x": 775,
+						"y": 1023,
+						"w": 248,
+						"h": 164
+					}
+				},
+				{
+					"filename": "Idle000",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 145,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 145,
+						"h": 250
+					},
+					"frame": {
+						"x": 866,
+						"y": 766,
+						"w": 145,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Idle001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 145,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 145,
+						"h": 250
+					},
+					"frame": {
+						"x": 945,
+						"y": 510,
+						"w": 145,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Idle002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 145,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 145,
+						"h": 250
+					},
+					"frame": {
+						"x": 1042,
+						"y": 255,
+						"w": 145,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Idle008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 145,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 145,
+						"h": 250
+					},
+					"frame": {
+						"x": 1075,
+						"y": 2,
+						"w": 145,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Idle009",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 145,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 145,
+						"h": 250
+					},
+					"frame": {
+						"x": 1014,
+						"y": 763,
+						"w": 145,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Idle003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 145,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 144,
+						"h": 250
+					},
+					"frame": {
+						"x": 1093,
+						"y": 508,
+						"w": 144,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Idle004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 145,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 144,
+						"h": 250
+					},
+					"frame": {
+						"x": 1190,
+						"y": 255,
+						"w": 144,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Idle006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 145,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 144,
+						"h": 250
+					},
+					"frame": {
+						"x": 1223,
+						"y": 2,
+						"w": 144,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Slide000",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 199,
+						"h": 201
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 199,
+						"h": 201
+					},
+					"frame": {
+						"x": 1026,
+						"y": 1016,
+						"w": 199,
+						"h": 201
+					}
+				},
+				{
+					"filename": "Idle007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 145,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 144,
+						"h": 250
+					},
+					"frame": {
+						"x": 1162,
+						"y": 761,
+						"w": 144,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Attack002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 262,
+						"h": 283
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 14,
+						"w": 159,
+						"h": 249
+					},
+					"frame": {
+						"x": 1240,
+						"y": 508,
+						"w": 159,
+						"h": 249
+					}
+				},
+				{
+					"filename": "Idle005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 145,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 1,
+						"w": 143,
+						"h": 249
+					},
+					"frame": {
+						"x": 1337,
+						"y": 255,
+						"w": 143,
+						"h": 249
+					}
+				},
+				{
+					"filename": "Attack003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 262,
+						"h": 283
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 15,
+						"w": 247,
+						"h": 248
+					},
+					"frame": {
+						"x": 1370,
+						"y": 2,
+						"w": 247,
+						"h": 248
+					}
+				},
+				{
+					"filename": "Slide001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 199,
+						"h": 201
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 198,
+						"h": 201
+					},
+					"frame": {
+						"x": 1228,
+						"y": 1014,
+						"w": 198,
+						"h": 201
+					}
+				},
+				{
+					"filename": "Climb005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 181,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 2,
+						"w": 162,
+						"h": 247
+					},
+					"frame": {
+						"x": 1309,
+						"y": 760,
+						"w": 162,
+						"h": 247
+					}
+				},
+				{
+					"filename": "Glide002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 237
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 228,
+						"h": 212
+					},
+					"frame": {
+						"x": 1429,
+						"y": 1010,
+						"w": 228,
+						"h": 212
+					}
+				},
+				{
+					"filename": "Attack001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 262,
+						"h": 283
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 16,
+						"w": 147,
+						"h": 247
+					},
+					"frame": {
+						"x": 1402,
+						"y": 507,
+						"w": 147,
+						"h": 247
+					}
+				},
+				{
+					"filename": "Run007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 188,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 3,
+						"w": 164,
+						"h": 246
+					},
+					"frame": {
+						"x": 1474,
+						"y": 757,
+						"w": 164,
+						"h": 246
+					}
+				},
+				{
+					"filename": "Climb000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 181,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 162,
+						"h": 246
+					},
+					"frame": {
+						"x": 1483,
+						"y": 253,
+						"w": 162,
+						"h": 246
+					}
+				},
+				{
+					"filename": "Climb004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 181,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 2,
+						"w": 162,
+						"h": 246
+					},
+					"frame": {
+						"x": 1620,
+						"y": 2,
+						"w": 162,
+						"h": 246
+					}
+				},
+				{
+					"filename": "Climb006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 181,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 2,
+						"w": 162,
+						"h": 246
+					},
+					"frame": {
+						"x": 1552,
+						"y": 502,
+						"w": 162,
+						"h": 246
+					}
+				},
+				{
+					"filename": "JumpAttack000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 292
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 12,
+						"w": 151,
+						"h": 246
+					},
+					"frame": {
+						"x": 1648,
+						"y": 251,
+						"w": 151,
+						"h": 246
+					}
+				},
+				{
+					"filename": "Attack000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 262,
+						"h": 283
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 17,
+						"w": 147,
+						"h": 246
+					},
+					"frame": {
+						"x": 1785,
+						"y": 2,
+						"w": 147,
+						"h": 246
+					}
+				},
+				{
+					"filename": "Run000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 188,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 9,
+						"w": 170,
+						"h": 245
+					},
+					"frame": {
+						"x": 1641,
+						"y": 751,
+						"w": 170,
+						"h": 245
+					}
+				},
+				{
+					"filename": "Throw000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 11,
+						"w": 149,
+						"h": 245
+					},
+					"frame": {
+						"x": 1717,
+						"y": 500,
+						"w": 149,
+						"h": 245
+					}
+				},
+				{
+					"filename": "Attack004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 262,
+						"h": 283
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 19,
+						"w": 245,
+						"h": 244
+					},
+					"frame": {
+						"x": 1802,
+						"y": 251,
+						"w": 245,
+						"h": 244
+					}
+				},
+				{
+					"filename": "Climb001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 181,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 161,
+						"h": 244
+					},
+					"frame": {
+						"x": 1935,
+						"y": 2,
+						"w": 161,
+						"h": 244
+					}
+				},
+				{
+					"filename": "Glide000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 237
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 229,
+						"h": 213
+					},
+					"frame": {
+						"x": 1660,
+						"y": 999,
+						"w": 229,
+						"h": 213
+					}
+				},
+				{
+					"filename": "Climb009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 181,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 161,
+						"h": 244
+					},
+					"frame": {
+						"x": 1814,
+						"y": 748,
+						"w": 161,
+						"h": 244
+					}
+				},
+				{
+					"filename": "JumpThrow006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 213,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 17,
+						"w": 184,
+						"h": 227
+					},
+					"frame": {
+						"x": 1892,
+						"y": 995,
+						"w": 184,
+						"h": 227
+					}
+				},
+				{
+					"filename": "Attack009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 262,
+						"h": 283
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 20,
+						"w": 186,
+						"h": 243
+					},
+					"frame": {
+						"x": 1869,
+						"y": 498,
+						"w": 186,
+						"h": 243
+					}
+				},
+				{
+					"filename": "Run004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 188,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 9,
+						"w": 184,
+						"h": 243
+					},
+					"frame": {
+						"x": 2050,
+						"y": 249,
+						"w": 184,
+						"h": 243
+					}
+				},
+				{
+					"filename": "Run005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 188,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 9,
+						"w": 169,
+						"h": 243
+					},
+					"frame": {
+						"x": 2099,
+						"y": 2,
+						"w": 169,
+						"h": 243
+					}
+				},
+				{
+					"filename": "Climb007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 181,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 1,
+						"w": 162,
+						"h": 243
+					},
+					"frame": {
+						"x": 1978,
+						"y": 744,
+						"w": 162,
+						"h": 243
+					}
+				},
+				{
+					"filename": "JumpThrow002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 213,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 17,
+						"w": 161,
+						"h": 232
+					},
+					"frame": {
+						"x": 2079,
+						"y": 990,
+						"w": 161,
+						"h": 232
+					}
+				},
+				{
+					"filename": "Climb003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 181,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 1,
+						"w": 162,
+						"h": 242
+					},
+					"frame": {
+						"x": 2058,
+						"y": 495,
+						"w": 162,
+						"h": 242
+					}
+				},
+				{
+					"filename": "Attack006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 262,
+						"h": 283
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 25,
+						"w": 257,
+						"h": 241
+					},
+					"frame": {
+						"x": 2143,
+						"y": 740,
+						"w": 257,
+						"h": 241
+					}
+				},
+				{
+					"filename": "Attack007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 262,
+						"h": 283
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 25,
+						"w": 256,
+						"h": 241
+					},
+					"frame": {
+						"x": 2223,
+						"y": 495,
+						"w": 256,
+						"h": 241
+					}
+				},
+				{
+					"filename": "Jump006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 18,
+						"w": 158,
+						"h": 237
+					},
+					"frame": {
+						"x": 2243,
+						"y": 984,
+						"w": 158,
+						"h": 237
+					}
+				},
+				{
+					"filename": "JumpAttack009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 292
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 13,
+						"w": 188,
+						"h": 241
+					},
+					"frame": {
+						"x": 2403,
+						"y": 739,
+						"w": 188,
+						"h": 241
+					}
+				},
+				{
+					"filename": "Attack005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 262,
+						"h": 283
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 25,
+						"w": 258,
+						"h": 239
+					},
+					"frame": {
+						"x": 2404,
+						"y": 983,
+						"w": 258,
+						"h": 239
+					}
+				},
+				{
+					"filename": "Run003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 188,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 181,
+						"h": 241
+					},
+					"frame": {
+						"x": 2237,
+						"y": 248,
+						"w": 181,
+						"h": 241
+					}
+				},
+				{
+					"filename": "Jump002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 18,
+						"w": 147,
+						"h": 241
+					},
+					"frame": {
+						"x": 2271,
+						"y": 2,
+						"w": 147,
+						"h": 241
+					}
+				},
+				{
+					"filename": "Attack008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 262,
+						"h": 283
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 23,
+						"w": 199,
+						"h": 240
+					},
+					"frame": {
+						"x": 2421,
+						"y": 2,
+						"w": 199,
+						"h": 240
+					}
+				},
+				{
+					"filename": "Run009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 188,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 9,
+						"w": 173,
+						"h": 240
+					},
+					"frame": {
+						"x": 2421,
+						"y": 245,
+						"w": 173,
+						"h": 240
+					}
+				},
+				{
+					"filename": "Jump000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 23,
+						"w": 154,
+						"h": 240
+					},
+					"frame": {
+						"x": 2482,
+						"y": 488,
+						"w": 154,
+						"h": 240
+					}
+				},
+				{
+					"filename": "Jump003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 18,
+						"w": 147,
+						"h": 240
+					},
+					"frame": {
+						"x": 2597,
+						"y": 245,
+						"w": 147,
+						"h": 240
+					}
+				},
+				{
+					"filename": "Jump004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 18,
+						"w": 147,
+						"h": 240
+					},
+					"frame": {
+						"x": 2597,
+						"y": 245,
+						"w": 147,
+						"h": 240
+					}
+				},
+				{
+					"filename": "Jump005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 18,
+						"w": 147,
+						"h": 240
+					},
+					"frame": {
+						"x": 2597,
+						"y": 245,
+						"w": 147,
+						"h": 240
+					}
+				},
+				{
+					"filename": "Climb002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 181,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 1,
+						"w": 162,
+						"h": 239
+					},
+					"frame": {
+						"x": 2623,
+						"y": 2,
+						"w": 162,
+						"h": 239
+					}
+				},
+				{
+					"filename": "Climb008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 181,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 1,
+						"w": 162,
+						"h": 239
+					},
+					"frame": {
+						"x": 2594,
+						"y": 731,
+						"w": 162,
+						"h": 239
+					}
+				},
+				{
+					"filename": "Dead001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 289,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 36,
+						"w": 163,
+						"h": 234
+					},
+					"frame": {
+						"x": 2639,
+						"y": 488,
+						"w": 163,
+						"h": 234
+					}
+				},
+				{
+					"filename": "Run008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 188,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 4,
+						"w": 165,
+						"h": 233
+					},
+					"frame": {
+						"x": 2747,
+						"y": 244,
+						"w": 165,
+						"h": 233
+					}
+				},
+				{
+					"filename": "Jump007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 18,
+						"w": 150,
+						"h": 233
+					},
+					"frame": {
+						"x": 2788,
+						"y": 2,
+						"w": 150,
+						"h": 233
+					}
+				},
+				{
+					"filename": "JumpThrow000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 213,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 17,
+						"w": 158,
+						"h": 232
+					},
+					"frame": {
+						"x": 2665,
+						"y": 973,
+						"w": 158,
+						"h": 232
+					}
+				},
+				{
+					"filename": "JumpThrow001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 213,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 17,
+						"w": 153,
+						"h": 232
+					},
+					"frame": {
+						"x": 2759,
+						"y": 725,
+						"w": 153,
+						"h": 232
+					}
+				},
+				{
+					"filename": "JumpThrow003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 213,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 181,
+						"h": 231
+					},
+					"frame": {
+						"x": 2805,
+						"y": 480,
+						"w": 181,
+						"h": 231
+					}
+				},
+				{
+					"filename": "Jump008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 17,
+						"w": 155,
+						"h": 231
+					},
+					"frame": {
+						"x": 2915,
+						"y": 238,
+						"w": 155,
+						"h": 231
+					}
+				},
+				{
+					"filename": "Jump009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 17,
+						"w": 155,
+						"h": 231
+					},
+					"frame": {
+						"x": 2915,
+						"y": 238,
+						"w": 155,
+						"h": 231
+					}
+				},
+				{
+					"filename": "JumpThrow009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 213,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 16,
+						"w": 155,
+						"h": 231
+					},
+					"frame": {
+						"x": 2941,
+						"y": 2,
+						"w": 155,
+						"h": 231
+					}
+				},
+				{
+					"filename": "JumpThrow008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 213,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 16,
+						"w": 156,
+						"h": 230
+					},
+					"frame": {
+						"x": 2826,
+						"y": 960,
+						"w": 156,
+						"h": 230
+					}
+				},
+				{
+					"filename": "Dead002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 289,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 52,
+						"w": 195,
+						"h": 229
+					},
+					"frame": {
+						"x": 2915,
+						"y": 714,
+						"w": 195,
+						"h": 229
+					}
+				},
+				{
+					"filename": "JumpThrow004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 213,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 16,
+						"w": 183,
+						"h": 229
+					},
+					"frame": {
+						"x": 2989,
+						"y": 472,
+						"w": 183,
+						"h": 229
+					}
+				},
+				{
+					"filename": "JumpThrow005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 213,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 16,
+						"w": 185,
+						"h": 228
+					},
+					"frame": {
+						"x": 3073,
+						"y": 236,
+						"w": 185,
+						"h": 228
+					}
+				},
+				{
+					"filename": "JumpThrow007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 213,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 16,
+						"w": 170,
+						"h": 228
+					},
+					"frame": {
+						"x": 3099,
+						"y": 2,
+						"w": 170,
+						"h": 228
+					}
+				},
+				{
+					"filename": "Glide001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 237
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 228,
+						"h": 213
+					},
+					"frame": {
+						"x": 2985,
+						"y": 946,
+						"w": 228,
+						"h": 213
+					}
+				},
+				{
+					"filename": "Glide009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 237
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 228,
+						"h": 213
+					},
+					"frame": {
+						"x": 3113,
+						"y": 704,
+						"w": 228,
+						"h": 213
+					}
+				},
+				{
+					"filename": "Glide003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 237
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 228,
+						"h": 212
+					},
+					"frame": {
+						"x": 3175,
+						"y": 467,
+						"w": 228,
+						"h": 212
+					}
+				},
+				{
+					"filename": "Glide007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 237
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 228,
+						"h": 212
+					},
+					"frame": {
+						"x": 3261,
+						"y": 233,
+						"w": 228,
+						"h": 212
+					}
+				},
+				{
+					"filename": "Glide008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 237
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 228,
+						"h": 212
+					},
+					"frame": {
+						"x": 3272,
+						"y": 2,
+						"w": 228,
+						"h": 212
+					}
+				},
+				{
+					"filename": "Glide004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 237
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 227,
+						"h": 211
+					},
+					"frame": {
+						"x": 3216,
+						"y": 920,
+						"w": 227,
+						"h": 211
+					}
+				},
+				{
+					"filename": "Glide006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 237
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 227,
+						"h": 211
+					},
+					"frame": {
+						"x": 3344,
+						"y": 682,
+						"w": 227,
+						"h": 211
+					}
+				},
+				{
+					"filename": "Glide005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 237
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 227,
+						"h": 210
+					},
+					"frame": {
+						"x": 3406,
+						"y": 448,
+						"w": 227,
+						"h": 210
+					}
+				},
+				{
+					"filename": "Slide009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 199,
+						"h": 201
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 198,
+						"h": 201
+					},
+					"frame": {
+						"x": 3492,
+						"y": 217,
+						"w": 198,
+						"h": 201
+					}
+				},
+				{
+					"filename": "Slide002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 199,
+						"h": 201
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 197,
+						"h": 201
+					},
+					"frame": {
+						"x": 3503,
+						"y": 2,
+						"w": 197,
+						"h": 201
+					}
+				},
+				{
+					"filename": "Dead006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 289,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 126,
+						"w": 241,
+						"h": 163
+					},
+					"frame": {
+						"x": 3703,
+						"y": 2,
+						"w": 241,
+						"h": 163
+					}
+				},
+				{
+					"filename": "Dead007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 289,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 126,
+						"w": 241,
+						"h": 163
+					},
+					"frame": {
+						"x": 3703,
+						"y": 2,
+						"w": 241,
+						"h": 163
+					}
+				},
+				{
+					"filename": "Dead008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 289,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 126,
+						"w": 241,
+						"h": 163
+					},
+					"frame": {
+						"x": 3703,
+						"y": 2,
+						"w": 241,
+						"h": 163
+					}
+				},
+				{
+					"filename": "Dead009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 289,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 126,
+						"w": 241,
+						"h": 163
+					},
+					"frame": {
+						"x": 3703,
+						"y": 2,
+						"w": 241,
+						"h": 163
+					}
+				},
+				{
+					"filename": "Dead004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 289,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 111,
+						"w": 239,
+						"h": 160
+					},
+					"frame": {
+						"x": 3703,
+						"y": 168,
+						"w": 239,
+						"h": 160
+					}
+				},
+				{
+					"filename": "Slide008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 199,
+						"h": 201
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 197,
+						"h": 201
+					},
+					"frame": {
+						"x": 3693,
+						"y": 331,
+						"w": 197,
+						"h": 201
+					}
+				},
+				{
+					"filename": "Slide003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 199,
+						"h": 201
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 196,
+						"h": 201
+					},
+					"frame": {
+						"x": 3446,
+						"y": 896,
+						"w": 196,
+						"h": 201
+					}
+				},
+				{
+					"filename": "Slide007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 199,
+						"h": 201
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 196,
+						"h": 201
+					},
+					"frame": {
+						"x": 3574,
+						"y": 661,
+						"w": 196,
+						"h": 201
+					}
+				},
+				{
+					"filename": "Slide004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 199,
+						"h": 201
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 195,
+						"h": 201
+					},
+					"frame": {
+						"x": 3773,
+						"y": 535,
+						"w": 195,
+						"h": 201
+					}
+				},
+				{
+					"filename": "Slide005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 199,
+						"h": 201
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 195,
+						"h": 201
+					},
+					"frame": {
+						"x": 3773,
+						"y": 739,
+						"w": 195,
+						"h": 201
+					}
+				},
+				{
+					"filename": "Slide006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 199,
+						"h": 201
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 195,
+						"h": 201
+					},
+					"frame": {
+						"x": 3645,
+						"y": 943,
+						"w": 195,
+						"h": 201
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:bdbde1fa00b4c754d03cebf396864293:30343952ae3190c2f81702cc4788a214:04ffe4359968888418d3c80e9f73747c$"
+	}
+}

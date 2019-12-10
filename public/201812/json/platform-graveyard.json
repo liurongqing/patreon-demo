@@ -1,0 +1,650 @@
+{
+	"textures": [
+		{
+			"image": "platform-graveyard.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 503,
+				"h": 923
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Tree",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 286,
+						"h": 239
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 286,
+						"h": 239
+					},
+					"frame": {
+						"x": 2,
+						"y": 2,
+						"w": 286,
+						"h": 239
+					}
+				},
+				{
+					"filename": "Bush1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 182,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 182,
+						"h": 90
+					},
+					"frame": {
+						"x": 291,
+						"y": 2,
+						"w": 182,
+						"h": 90
+					}
+				},
+				{
+					"filename": "DeadBush",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 132,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 132,
+						"h": 74
+					},
+					"frame": {
+						"x": 291,
+						"y": 95,
+						"w": 132,
+						"h": 74
+					}
+				},
+				{
+					"filename": "Bone4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 45,
+						"w": 70,
+						"h": 55
+					},
+					"frame": {
+						"x": 426,
+						"y": 95,
+						"w": 70,
+						"h": 55
+					}
+				},
+				{
+					"filename": "Bone2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 41,
+						"w": 61,
+						"h": 55
+					},
+					"frame": {
+						"x": 426,
+						"y": 153,
+						"w": 61,
+						"h": 55
+					}
+				},
+				{
+					"filename": "Tile1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 291,
+						"y": 172,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "TombStone1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 54,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 55
+					},
+					"frame": {
+						"x": 422,
+						"y": 211,
+						"w": 54,
+						"h": 55
+					}
+				},
+				{
+					"filename": "TombStone2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 53,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 53,
+						"h": 76
+					},
+					"frame": {
+						"x": 422,
+						"y": 269,
+						"w": 53,
+						"h": 76
+					}
+				},
+				{
+					"filename": "Tile10",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 2,
+						"y": 244,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "Tile11",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 133,
+						"y": 244,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "Tile12",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 264,
+						"y": 303,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "Crate",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 106,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 106,
+						"h": 106
+					},
+					"frame": {
+						"x": 395,
+						"y": 348,
+						"w": 106,
+						"h": 106
+					}
+				},
+				{
+					"filename": "Tile13",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 2,
+						"y": 375,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "Tile2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 133,
+						"y": 375,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "Tile3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 264,
+						"y": 434,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "Skeleton",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 102,
+						"h": 50
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 102,
+						"h": 50
+					},
+					"frame": {
+						"x": 395,
+						"y": 457,
+						"w": 102,
+						"h": 50
+					}
+				},
+				{
+					"filename": "Bush2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 64
+					},
+					"frame": {
+						"x": 395,
+						"y": 510,
+						"w": 100,
+						"h": 64
+					}
+				},
+				{
+					"filename": "Tile4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 2,
+						"y": 506,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "Tile5",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 133,
+						"y": 506,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "Tile6",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 264,
+						"y": 565,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "Bone3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 44,
+						"w": 96,
+						"h": 63
+					},
+					"frame": {
+						"x": 395,
+						"y": 577,
+						"w": 96,
+						"h": 63
+					}
+				},
+				{
+					"filename": "Sign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 91,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 93
+					},
+					"frame": {
+						"x": 395,
+						"y": 643,
+						"w": 91,
+						"h": 93
+					}
+				},
+				{
+					"filename": "Tile7",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 2,
+						"y": 739,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "Tile8",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 133,
+						"y": 637,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "Tile14",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 94
+					},
+					"frame": {
+						"x": 2,
+						"y": 637,
+						"w": 128,
+						"h": 94
+					}
+				},
+				{
+					"filename": "Tile9",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 264,
+						"y": 696,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "Tile15",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 94
+					},
+					"frame": {
+						"x": 133,
+						"y": 768,
+						"w": 128,
+						"h": 94
+					}
+				},
+				{
+					"filename": "Tile16",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 94
+					},
+					"frame": {
+						"x": 264,
+						"y": 827,
+						"w": 128,
+						"h": 94
+					}
+				},
+				{
+					"filename": "ArrowSign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 86,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 86,
+						"h": 87
+					},
+					"frame": {
+						"x": 395,
+						"y": 739,
+						"w": 86,
+						"h": 87
+					}
+				},
+				{
+					"filename": "Bone1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 33,
+						"w": 83,
+						"h": 88
+					},
+					"frame": {
+						"x": 395,
+						"y": 829,
+						"w": 83,
+						"h": 88
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:6361ace23d3a1aedde12fe24d1ac59ec:6eae7a59c3770fd9514dd2a21c9d1305:e9eb20d7f973f81f12982494d665dce6$"
+	}
+}

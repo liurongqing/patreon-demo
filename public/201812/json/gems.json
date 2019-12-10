@@ -1,0 +1,209 @@
+{
+	"textures": [
+		{
+			"image": "gems.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 454,
+				"h": 505
+			},
+			"scale": 0.75,
+			"frames": [
+				{
+					"filename": "yellow",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 167,
+						"h": 159
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 167,
+						"h": 159
+					},
+					"frame": {
+						"x": 2,
+						"y": 2,
+						"w": 167,
+						"h": 159
+					}
+				},
+				{
+					"filename": "ruby",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 169,
+						"h": 154
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 169,
+						"h": 154
+					},
+					"frame": {
+						"x": 172,
+						"y": 2,
+						"w": 169,
+						"h": 154
+					}
+				},
+				{
+					"filename": "emerald",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 108,
+						"h": 176
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 108,
+						"h": 176
+					},
+					"frame": {
+						"x": 344,
+						"y": 2,
+						"w": 108,
+						"h": 176
+					}
+				},
+				{
+					"filename": "blue",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 129,
+						"h": 188
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 129,
+						"h": 188
+					},
+					"frame": {
+						"x": 2,
+						"y": 164,
+						"w": 129,
+						"h": 188
+					}
+				},
+				{
+					"filename": "red",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 152,
+						"h": 148
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 152,
+						"h": 148
+					},
+					"frame": {
+						"x": 2,
+						"y": 355,
+						"w": 152,
+						"h": 148
+					}
+				},
+				{
+					"filename": "aqua",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 118,
+						"h": 188
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 118,
+						"h": 188
+					},
+					"frame": {
+						"x": 134,
+						"y": 164,
+						"w": 118,
+						"h": 188
+					}
+				},
+				{
+					"filename": "green",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 86,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 86,
+						"h": 182
+					},
+					"frame": {
+						"x": 255,
+						"y": 159,
+						"w": 86,
+						"h": 182
+					}
+				},
+				{
+					"filename": "rose",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 149,
+						"h": 148
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 149,
+						"h": 148
+					},
+					"frame": {
+						"x": 157,
+						"y": 355,
+						"w": 149,
+						"h": 148
+					}
+				},
+				{
+					"filename": "amber",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 153
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 153
+					},
+					"frame": {
+						"x": 309,
+						"y": 344,
+						"w": 128,
+						"h": 153
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:aaeaf72b00334f15c2b3330c9bbdb77b:e8c2374579a7f313eb8890e263b9ddf6:81fc68276d1596f8f7ad75d59a9ce9b5$"
+	}
+}

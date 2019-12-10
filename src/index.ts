@@ -9,19 +9,19 @@ const config: any = {
   type: Phaser.AUTO,
   backgroundColor: 0x000000,
   scale: {
-    mode: Phaser.Scale.ENVELOP,
+    mode: Phaser.Scale.NONE,
     parent: 'app',
     autoCenter: Phaser.Scale.CENTER_BOTH,
-    width: 750,
-    height: 1334,
-    min: {
-      width: 750,
-      height: 1334
-    },
-    max: {
-      width: 750,
-      height: 1334
-    }
+    width: 1200,
+    height: 900
+    // min: {
+    //   width: 800,
+    //   height: 600
+    // },
+    // max: {
+    //   width: 800,
+    //   height: 600
+    // }
   },
   scene
 }
