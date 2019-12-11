@@ -1,11 +1,11 @@
-import { BASE_URL, PATH_URL } from '@/const'
+import { BASE_URL, PATH_URL,TITLES } from '@/const'
 export default class extends Phaser.Scene {
   constructor() {
     super('OneScene201812')
   }
 
   init() {
-    document.querySelector('.title').innerHTML = '001 axis locked drag'
+    document.querySelector('.title').innerHTML = TITLES['201812'][0].text
     this.scale.setGameSize(800, 600)
   }
 

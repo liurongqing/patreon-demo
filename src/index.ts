@@ -12,8 +12,8 @@ const config: any = {
     mode: Phaser.Scale.NONE,
     parent: 'app',
     autoCenter: Phaser.Scale.CENTER_BOTH,
-    width: 1200,
-    height: 900
+    width: 768,
+    height: 1024
     // min: {
     //   width: 800,
     //   height: 600
