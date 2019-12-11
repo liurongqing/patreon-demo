@@ -13,7 +13,7 @@ export const TITLES = {
       scene: 'ThreeScene201812'
     },
     {
-      text: '004 resize tilesprite on drag',
+      text: '004 resize tilesprite on drag\n拖拉调整tilesprite高度',
       scene: ''
     },
     {

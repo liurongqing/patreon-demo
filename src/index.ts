@@ -23,7 +23,11 @@ const config: any = {
     //   height: 600
     // }
   },
-  scene
+  scene,
+  physics: {
+    default: 'arcade',
+    debug: true
+  }
 }
 
 window.game = new Phaser.Game(config)
